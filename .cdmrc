@@ -1,4 +1,5 @@
+terminals: ['go mod tidy']
 
 tabs: ['main.go', 'go.mod']
-terminals:['go mod tidy']
+
 run-button: go run $$file 
